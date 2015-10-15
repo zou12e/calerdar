@@ -3,3 +3,5 @@
 
 
 代码简单，下载后直接使用
+
+演示地址:<a target='_blank' href='http://zourunze.com/demo/calerdar/' >http://zourunze.com/demo/calerdar/</a>
